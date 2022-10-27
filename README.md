@@ -1,2 +1,0 @@
-# permastars-doc
-Permastars Documents
